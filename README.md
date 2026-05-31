@@ -1,13 +1,5 @@
 # 🚀 SmartArray OOP Project<br>
-
-<p align="center"><br>
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" /><br>
-  <img src="https://img.shields.io/badge/NumPy-Library-green?style=for-the-badge&logo=numpy" /><br>
-  <img src="https://img.shields.io/badge/OOP-Inheritance-orange?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/OOP-Polymorphism-red?style=for-the-badge" /><br>
-</p>
-
-## 📖 Overview
+ 📖 Overview
 
 This project demonstrates key **Object-Oriented Programming (OOP)** concepts using a custom **SmartArray** class built on top of NumPy's `ndarray`.
 
